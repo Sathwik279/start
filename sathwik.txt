@@ -1,1 +1,2 @@
-hi this sathwik  now i am learning to type faster and even at good pace and i am in my baby steps towards learning git and github actually i love the way things flow thats it`
+hi this sathwik  now i am learning to type faster and even at good pace and i am in my baby steps towards learning git and github actually i love the way things flow thats it
+now i would like to push the made changes to another branch in sath remote repo in git hub`
